@@ -325,7 +325,7 @@ outputs:
 
 ![20260705183436](https://r2.opensery.com/20260705183436.png)
 
-然后滑倒最底下点击“Create repository”就行：
+然后滑到最底下点击“Create repository”就行：
 
 ![20260705183714](https://r2.opensery.com/20260705183714.png)
 
