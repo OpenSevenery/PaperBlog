@@ -1,7 +1,8 @@
 ---
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
-summary: ''
+summary: ""
 tags: []
 date: '{{ .Date }}'
+lastmod: ""
 draft: true
 ---
