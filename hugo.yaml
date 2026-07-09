@@ -151,8 +151,14 @@ params:
     #     url: tags
 
   socialIcons:
+    - name: x
+      url: "https://x.com/OpenSevenery"
     - name: github
-      url: "https://github.com/OpenSevenery/"
+      url: "https://github.com/OpenSevenery"
+    - name: bilibili
+      url: "https://space.bilibili.com/12173478"
+    - name: reddit
+      url: "https://www.reddit.com/user/OpenSevenery"
 
   analytics:
     google:
