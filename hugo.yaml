@@ -1,5 +1,4 @@
 baseURL: "https://blog.opensery.com/"
-title: "OpenSevenery"
 pagination:
   pagerSize: 5
 theme: PaperMod
@@ -12,7 +11,7 @@ languages:
     weight: 1
     title: "OpenSevenery - 保持独立思考"
     params:
-      title: "OpenSevenery - 保持独立思考"
+      title: "OpenSevenery"
       description: "这里是一名坚持独立思考的非科班独立开发者的个人博客，记录技术探索、软件开发、产品实践与生活思考，分享实践经验与个人感悟，在探索、创造与成长的过程中建立自己的认知体系。"
 
       DateFormat: "2006年01月02日"
@@ -48,7 +47,7 @@ languages:
     weight: 2
     title: "OpenSevenery - Think Independently"
     params:
-      title: "OpenSevenery - Think Independently"
+      title: "OpenSevenery"
       description: "A personal blog by a self-taught indie developer who values independent thinking. I share my journey in technology, software development, product building, and life reflections, documenting practical experiences and personal insights while shaping my own perspective through exploration, creation, and growth."
 
       DateFormat: "January 2, 2006"
@@ -139,6 +138,7 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
+  hideFooter: true
 
   assets:
     # disableHLJS: true
