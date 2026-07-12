@@ -12,17 +12,17 @@ languages:
     title: "OpenSevenery"
     params:
       title: "OpenSevenery"
-      description: "这里是一名坚持独立思考的非科班独立开发者的个人博客，记录技术探索、软件开发、产品实践与生活思考，分享实践经验与个人感悟，在探索、创造与成长的过程中建立自己的认知体系。"
+      description: "这里是一名坚持独立思考的非科班独立开发者的探索空间，记录技术、创造与生活中的经验和思考，分享探索过程中的想法与感悟。"
 
       DateFormat: "2006年01月02日"
 
       profileMode:
         title: "保持独立思考"
-        subtitle: "也许你可以在这里找到一些有价值的经验与思考"
+        subtitle: "以独立思考的方式探索技术、创造与生活。"
 
       homeInfoParams:
         Title: "保持独立思考"
-        Content: "也许你可以在这里找到一些有价值的经验与思考"
+        Content: "以独立思考的方式探索技术、创造与生活。"
 
     menu:
       main:
@@ -48,17 +48,17 @@ languages:
     title: "OpenSevenery"
     params:
       title: "OpenSevenery"
-      description: "A personal blog by a self-taught indie developer who values independent thinking. I share my journey in technology, software development, product building, and life reflections, documenting practical experiences and personal insights while shaping my own perspective through exploration, creation, and growth."
+      description: "An exploration space for a self-taught indie developer who values independent thinking, sharing experiences and reflections on technology, creation, and life."
 
       DateFormat: "January 2, 2006"
 
       profileMode:
         title: "Think Independently"
-        subtitle: "Perhaps you can find some valuable insights here"
+        subtitle: "Explore technology, creativity, and life through independent thinking."
 
       homeInfoParams:
         Title: "Think Independently"
-        Content: "Perhaps you can find some valuable insights here"
+        Content: "Explore technology, creativity, and life through independent thinking."
 
     menu:
       main:
@@ -171,10 +171,10 @@ params:
       url: "https://x.com/OpenSevenery"
     - name: github
       url: "https://github.com/OpenSevenery"
+    - name: reddit
+      url: "https://www.reddit.com/user/OpenSevenery/"
     - name: bilibili
       url: "https://space.bilibili.com/12173478"
-    - name: reddit
-      url: "https://www.reddit.com/user/OpenSevenery"
 
   analytics:
     google:
