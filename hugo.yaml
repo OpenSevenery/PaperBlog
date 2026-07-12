@@ -10,6 +10,7 @@ defaultContentLanguageInSubdir: true
 languages:
   zh:
     weight: 1
+    title: "OpenSevenery - 保持独立思考"
     params:
       title: "OpenSevenery - 保持独立思考"
       description: "这里是一名坚持独立思考的非科班独立开发者的个人博客，记录技术探索、软件开发、产品实践与生活思考，分享实践经验与个人感悟，在探索、创造与成长的过程中建立自己的认知体系。"
@@ -45,6 +46,7 @@ languages:
 
   en:
     weight: 2
+    title: "OpenSevenery - Think Independently"
     params:
       title: "OpenSevenery - Think Independently"
       description: "A personal blog by a self-taught indie developer who values independent thinking. I share my journey in technology, software development, product building, and life reflections, documenting practical experiences and personal insights while shaping my own perspective through exploration, creation, and growth."
@@ -92,7 +94,6 @@ taxonomies:
 
 params:
   env: production
-  title: "OpenSevenery"
   keywords:
     [
       Blog,
