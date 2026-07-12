@@ -11,17 +11,18 @@ languages:
   zh:
     weight: 1
     params:
-      description: "保持独立思考 - 也许你可以在这里找到一些有用的经验"
+      title: "OpenSevenery - 保持独立思考"
+      description: "这里是一名坚持独立思考的非科班独立开发者的个人博客，记录技术探索、软件开发、产品实践与生活思考，分享实践经验与个人感悟，在探索、创造与成长的过程中建立自己的认知体系。"
 
       DateFormat: "2006年01月02日"
 
       profileMode:
         title: "保持独立思考"
-        subtitle: "也许你可以在这里找到一些有用的经验"
+        subtitle: "也许你可以在这里找到一些有价值的经验与思考"
 
       homeInfoParams:
         Title: "保持独立思考"
-        Content: "也许你可以在这里找到一些有用的经验"
+        Content: "也许你可以在这里找到一些有价值的经验与思考"
 
     menu:
       main:
@@ -45,17 +46,18 @@ languages:
   en:
     weight: 2
     params:
-      description: "Maintain Independent Thinking - Perhaps you can find some useful experience here"
+      title: "OpenSevenery - Think Independently"
+      description: "A personal blog by a self-taught indie developer who values independent thinking. I share my journey in technology, software development, product building, and life reflections, documenting practical experiences and personal insights while shaping my own perspective through exploration, creation, and growth."
 
       DateFormat: "January 2, 2006"
 
       profileMode:
-        title: "Maintain Independent Thinking"
-        subtitle: "Perhaps you can find some useful experience here"
+        title: "Think Independently"
+        subtitle: "Perhaps you can find some valuable insights here"
 
       homeInfoParams:
-        Title: "Maintain Independent Thinking"
-        Content: "Perhaps you can find some useful experience here"
+        Title: "Think Independently"
+        Content: "Perhaps you can find some valuable insights here"
 
     menu:
       main:
@@ -94,14 +96,27 @@ params:
   keywords:
     [
       Blog,
-      Portfolio,
-      PaperMod,
+      Personal Blog,
+      Indie Developer,
+      Self-Taught Developer,
+      Software Development,
+      Product Building,
+      Technology Exploration,
+      Independent Thinking,
+      Think Independently,
+      Personal Growth,
+      博客,
+      个人博客,
+      独立开发者,
+      非科班开发者,
+      软件开发,
+      产品实践,
+      技术探索,
+      独立思考,
+      Sevenery,
       OpenSery,
       OpenSevenery,
-      Sevenery,
       七尾狐草,
-      Maintain Independent Thinking,
-      Perhaps you can find some useful experience here,
     ]
   author: "OpenSevenery"
   images: ["./default.png"]
