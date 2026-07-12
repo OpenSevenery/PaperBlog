@@ -1,12 +1,12 @@
 ---
-title: "赛博大善人白嫖录（一）"
-summary: "一篇文章告诉你：我是如何“白嫖”赛博大善人 Cloudflare 的 Workers 和 Pages 服务，搭建属于自己的博客站点的。"
+title: 赛博大善人白嫖录（一）
+summary: 一篇文章告诉你：我是如何“白嫖”赛博大善人 Cloudflare 的 Workers 和 Pages 服务，搭建属于自己的博客站点的。
 tags:
-  - "笔记"
-  - "白嫖录"
-  - "Cloudflare"
-date: "2026-07-04T12:45:57+08:00"
-lastmod: "2026-07-05T20:17:42+08:00"
+  - 笔记
+  - 白嫖录
+  - Cloudflare
+date: 2026-07-04T12:45:57+08:00
+lastmod: 2026-07-12T13:52:51+08:00
 draft: false
 ---
 
@@ -79,7 +79,7 @@ hugo version
 
 如果有类似于下图所示的字符串就代表你安装成功了：
 
-![20260705175430](https://r2.opensery.com/20260705175430.png)
+![](https://r2.opensery.com/2026/07/20260712135317748.png)
 
 ### 创建博客
 
@@ -319,19 +319,19 @@ outputs:
 
 来到 [Github](https://github.com/) 的官方网站，登录你自己的账号后，点击左侧顶部的“New”：
 
-![20260705183334](https://r2.opensery.com/20260705183334.png)
+![](https://r2.opensery.com/2026/07/20260712135338410.png)
 
 然后填入仓库名称：
 
-![20260705183436](https://r2.opensery.com/20260705183436.png)
+![](https://r2.opensery.com/2026/07/20260712135349814.png)
 
 然后滑到最底下点击“Create repository”就行：
 
-![20260705183714](https://r2.opensery.com/20260705183714.png)
+![](https://r2.opensery.com/2026/07/20260712135401949.png)
 
 创建完成后如下图所示：
 
-![20260705185546](https://r2.opensery.com/20260705185546.png)
+![](https://r2.opensery.com/2026/07/20260712135414576.png)
 
 之后回到你的 Hugo 项目，执行以下命令：
 
@@ -349,29 +349,29 @@ git push -u origin main
 
 访问 [Cloudflare](https://www.cloudflare.com/) 的官方网站，登录你自己的账号后，点击左侧导航栏中“计算”下面的“Workers和Pages”：
 
-![20260705180507](https://r2.opensery.com/20260705180507.png)
+![](https://r2.opensery.com/2026/07/20260712135426410.png)
 
 点击右上角蓝色的“创建应用程序”，点击下面的“开始使用”：
 
-![20260705180028](https://r2.opensery.com/20260705180028.png)
+![](https://r2.opensery.com/2026/07/20260712135438609.png)
 
 这里选择“导入现有 Git 存储库”:
 
-![20260705182931](https://r2.opensery.com/20260705182931.png)
+![](https://r2.opensery.com/2026/07/20260712135449430.png)
 
 这里点击“添加账户”，按照提示进行授权，并且给予 Cloudflare 访问你刚刚创建的博客仓库的权限。
 
-![20260705184021](https://r2.opensery.com/20260705184021.png)
+![](https://r2.opensery.com/2026/07/20260712135502068.png)
 
 回到 Cloudflare 之后，看看有没有你的博客仓库：
 
-![20260705184138](https://r2.opensery.com/20260705184138.png)
+![](https://r2.opensery.com/2026/07/20260712135514134.png)
 
 如果找不到你的博客仓库，则点击蓝色小字”Cloudflare Pages“，然后再像前面一样给予仓库权限即可。
 
 最后点击“开始设置”，按照下图填入数据即可：
 
-![20260705191043](https://r2.opensery.com/20260705191043.png)
+![](https://r2.opensery.com/2026/07/20260712135527924.png)
 
 这里没有域名的同学需要**注意**，Cloudflare 会根据你的项目名称给你一个域名，例如我这里是：
 
@@ -397,7 +397,7 @@ git push
 
 最后，全体都有！回到 Cloudflare 中，点击“保存并部署”，稍微等待片刻...
 
-![20260705191427](https://r2.opensery.com/20260705191427.png)
+![](https://r2.opensery.com/2026/07/20260712135539827.png)
 
 那么至此，你就拥有了属于自己的个人博客咯。
 
