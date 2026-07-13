@@ -138,7 +138,6 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
-  hideFooter: true
 
   assets:
     # disableHLJS: true
